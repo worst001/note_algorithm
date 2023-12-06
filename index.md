@@ -69,7 +69,7 @@ Paxos和Raft等一致性算法，用于分布式系统中的状态一致性和�
 
 [基础算法在线图示](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
-[尚硅谷数据结构与算法](尚硅谷课件/笔记/尚硅谷图解Java数据结构和算法.pdf)
+[尚硅谷数据结构与算法](尚硅谷课件/Direction.md)
 
 ## LeetCode 案例分析
 
