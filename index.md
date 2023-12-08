@@ -1,3 +1,15 @@
+<!-- PROJECT SHIELDS -->
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![Stargazers][stars-shield]][stars-url]
+<!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
+
+<!-- PROJECT LOGO -->
+
+
 # 数据结构与算法
 
 ## 数据结构
@@ -193,3 +205,17 @@ Paxos和Raft等一致性算法，用于分布式系统中的状态一致性和�
 #### 工作中遇到的一些算法
 
 [工作中遇到的一些算法](学习笔记/工作中遇到的一些算法.md)
+
+
+<!-- links -->
+[your-project-path]:shaojintian/Best_README_template
+[contributors-shield]: https://img.shields.io/github/contributors/worst001/mkdocs_algorithm.svg?style=flat-square
+[contributors-url]: https://github.com/worst001/mkdocs_algorithm/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/worst001/mkdocs_algorithm.svg?style=flat-square
+[forks-url]: https://github.com/worst001/mkdocs_algorithm/network/members
+[stars-shield]: https://img.shields.io/github/stars/worst001/mkdocs_algorithm.svg?style=social
+[stars-url]: https://github.com/worst001/mkdocs_algorithm/stargazers
+[issues-shield]: https://img.shields.io/github/issues/worst001/mkdocs_algorithm.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/worst001/mkdocs_algorithm.svg
+[license-shield]: https://img.shields.io/github/license/worst001/mkdocs_algorithm.svg?style=flat-square
+[license-url]: https://github.com/worst001/mkdocs_algorithm/blob/main/LICENSE.txt
