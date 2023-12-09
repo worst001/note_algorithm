@@ -1,15 +1,3 @@
-# 算法设计
-
-整理了数据结构与基础算法，以及一些经典的LeetCode算法
-
-公网资料、笔记地址请访问这里 
-
-- 文档地址: [http://mkdocs.grft.top/算法设计/](http://mkdocs.grft.top/算法设计/)
-
-其他相关技术可以访问我的博客，主页地址请访问这里
-
-- 访问入口：[https://mkdocs.grft.top](https://mkdocs.grft.top)
-
 <!-- PROJECT SHIELDS -->
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -20,6 +8,18 @@
 <!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 <!-- PROJECT LOGO -->
+
+# 算法设计
+
+整理了数据结构与基础算法，以及一些经典的LeetCode算法
+
+公网资料、笔记地址请访问这里 
+
+- 文档地址: [http://mkdocs.grft.top/算法设计/](http://mkdocs.grft.top/算法设计/)
+
+其他相关技术可以访问我的博客，主页地址请访问这里
+
+- 访问入口：[http://mkdocs.grft.top](https://mkdoc.grft.top)
 
 --------------------
 
