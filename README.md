@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 <!-- PROJECT SHIELDS -->
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -9,7 +10,38 @@
 
 <!-- PROJECT LOGO -->
 
-# 算法设计
+<!-- 项目LOGO -->
+<br />
+<div align="center">
+  <a href="http://mkdocs.grft.top">
+    <img src="https://xiyou-oss.oss-cn-shanghai.aliyuncs.com/mkdocs/logo.png" alt="Logo" width="480" height="270">
+  </a>
+
+  <h3 align="center">算法设计</h3>
+
+  <p align="center">
+    <br />
+    <a href="http://mkdocs.grft.top/算法设计/"><strong>探索文档 »</strong></a>
+    <br />
+  </p>
+</div>
+
+<!-- 目录 -->
+<details>
+  <summary>目录</summary>
+  <ol>
+    <li><a href="#关于项目">关于项目</a></li>
+    <li><a href="#什么是数据结构">什么是数据结构</a></li>
+    <li><a href="#什么是计算机算法">什么是计算机算法</a></li>
+    <li><a href="#技术目录">技术目录</a></li>
+    <li><a href="#贡献">贡献</a></li>
+    <li><a href="#许可证">许可证</a></li>
+    <li><a href="#联系方式">联系方式</a></li>
+    <li><a href="#鸣谢">鸣谢</a></li>
+  </ol>
+</details>
+
+## 关于项目
 
 整理了数据结构与基础算法，以及一些经典的LeetCode算法
 
@@ -21,9 +53,9 @@
 
 - 访问入口：[http://mkdocs.grft.top](https://mkdoc.grft.top)
 
---------------------
+<p align="right">(<a href="#readme-top">回到顶部</a>)</p>
 
-## 数据结构
+## 什么是数据结构
 数据结构是一种组织和存储数据的方式，它提供了对数据的操作和访问方法。
 
 ### 数组（Array）
@@ -44,8 +76,12 @@
 ### 图（Graph）
 图是由节点和边组成的非线性数据结构，用于表示对象之间的关系。图可以是有向图或无向图，支持各种算法如最短路径、最小生成树和网络流等。
 
-## 算法概要
-一些常用的算法类型及其在互联网应用中的用途
+<p align="right">(<a href="#readme-top">回到顶部</a>)</p>
+
+## 什么是计算机算法
+计算机算法是一系列定义明确的指令，用于解决某个问题或执行某项任务。算法在计算机科学与编程领域中非常关键，它们能够让计算机执行各种复杂的数据处理工作。一个好的算法能够高效地运用计算资源，比如处理器时间和内存空间，来快速且准确地得出结果。
+
+算法的设计和分析主要关注算法的正确性和效率。效率通常涉及算法的时间复杂度（即算法所需时间）和空间复杂度（即算法所需内存空间）。时间和空间复杂度通常用大O表示法（Big O notation）来描述，该表示法可以大致描述算法的规模增长对时间或空间需求的影响。
 
 ### 搜索算法
 全文搜索算法，如倒排索引、布尔查询等，用于提供搜索引擎服务。
@@ -82,20 +118,20 @@ Paxos和Raft等一致性算法，用于分布式系统中的状态一致性和�
 索引查询算法、查询执行计划生成算法，用于数据库性能优化。
 上述算法只是互联网应用中常见算法的一部分，各个领域会根据具体需求和场景进行算法的选择、优化和实现。随着技术的发展和新算法的不断涌现，互联网应用中的算法也在不断进化。
 
+<p align="right">(<a href="#readme-top">回到顶部</a>)</p>
 
---------------------
 
-## 目录
+## 技术目录
 
 [目录与大纲](index.md)
 
-## 数据结构与算法
+### 数据结构与算法
 
 + [数据结构详细笔记](https://github.com/rogertan30/Love-Leetcode)
 + [基础算法在线图示](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 + [尚硅谷数据结构与算法](尚硅谷课件/笔记/尚硅谷图解Java数据结构和算法.pdf)
 
-## LeetCode 案例分析
+### LeetCode 案例分析
 
 + [LeetCode 官网](https://leetcode.cn/problemset/all/)
 
@@ -166,27 +202,56 @@ Paxos和Raft等一致性算法，用于分布式系统中的状态一致性和�
 
 + [工作中遇到的一些算法](学习笔记/工作中遇到的一些算法.md)
 
+<p align="right">(<a href="#readme-top">回到顶部</a>)</p>
 
--------------------
+<!-- 贡献 -->
+
+## 贡献
+
+贡献是使开源社区成为一个如此令人惊叹的地方，以学习、激励和创造。您所做的任何贡献都将非常感谢。
+
+如果您对使这个项目变得更好有建议，请 fork 该仓库并创建 pull request。您也可以打开一个带有“enhancement”标签的问题。不要忘记给这个项目点个星！再次感谢！
+
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
 
-## 版本控制
+<!-- 许可证 -->
+## 许可证
 
-该项目使用Git进行版本管理。您可以在repository参看当前可用版本。
+根据 MIT 许可证进行分发。更多信息请参见 [LICENSE.txt](LICENSE)。
 
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
-## 参考资料
+<!-- 联系方式 -->
+## 联系方式
+
+关注我: [小昊子](https://github.com/worst001)
+
+博客地址: [http://mkdocs.grft.top](http://mkdocs.grft.top)
+
+项目链接: [https://github.com/worst001/mkdocs_algorithm](https://github.com/worst001/mkdocs_algorithm)
+
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
+
+## 鸣谢
+
+因为仓库与文档的数量比较大，有些借鉴资料忘了在`参考文档`部分提及原作者与原仓库，若有疏漏请告诉，我及时补上。
+
+所有引用的原资料都确认是开源认证，若有侵权请告知。
+
+[尚硅谷系列教程资料](http://www.atguigu.com/opensource.shtml)
+
+[https://www.cs.usfca.edu/~galles/visualization/Algorithms.html](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 [https://github.com/rogertan30/Love-Leetcode](https://github.com/rogertan30/Love-Leetcode)
 
 [https://github.com/labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
 
+[https://openai.com/chatgpt](https://openai.com/chatgpt)
 
-### 写在最后的话
 
-因为仓库与文档的数量比较大，有些借鉴资料忘了在`参考文档`部分提及原作者与原仓库，若有疏漏请告诉，我及时补上。
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
-所有引用的原资料都确认是开源认证，若有侵权请告知。
 
 <!-- links -->
 [your-project-path]:shaojintian/Best_README_template
